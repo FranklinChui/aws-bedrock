@@ -1,6 +1,6 @@
-# Amazon Bedrock
+# AWS Machine Learning
 
-In this repository, I share some of my experience in using Amazon Bedrock, both in personal capacity or POC for work alike.
+In this repository, I shared some of my experience in using **Amazon Bedrock** in the notebooks.
 
 Feedback are welcome; and I hope share more in the future on other areas.
 
@@ -16,3 +16,5 @@ Feedback are welcome; and I hope share more in the future on other areas.
 - jupyter notebook
 - google colab/kaggle
 - vs code
+- Amazon Bedrock
+- Sagemaker
